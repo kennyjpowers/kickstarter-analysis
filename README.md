@@ -11,7 +11,7 @@ The data also shows that theater kickstarters beginning in May or June had the h
 For kickstarters in the US, the mean and median goal for successful campaigns was much lower than that of failed campaigns ($5,049 and $3,000 for successful vs $10,554 and $5,000 for failed). However, the mean and median pledged amounts showed the opposite with failed campaigns pledged amounts being much lower than successful ones ($5,602 and $3,168 for successful vs $559 and $103 for failed). This indicates that a lower goal amount may make for a more likely successful campaign but there are more factors than just the goal amount contributing to the success or failure of the campaign.
 
 For musical campaigns in Great Britan, the mean goal is around $4,000 which would be considered an outlier in terms of amount pledged. The median goal is closer to $2,000 and even that is above the 3rd quartile for pledged amounts.
-![Analysis of Musicals in GB](DistributionAnalysisOfMusicalsInGB.png)
+![Analysis of Musicals in GB](DistrubtionAnalysisOfMusicalsInGB.png)
 
 ## Recommendations
 Based on the data I would recommend starting the campaign in the early summer for the best chance at success. 
