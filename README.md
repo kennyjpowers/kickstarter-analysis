@@ -52,4 +52,4 @@ According to the chart, play campaigns with a goal less than 1000 had the highes
 
 - What are some other possible tables and/or graphs that we could create?
   - We could have converted all of the amounts into USD based on historical exchange ratios before creating our data based on goal amount to get a better comparison across different currencies. 
-  - We could have created a graph vizualizing the outcomes based on campaign duration. 
+  - We could have created a graph vizualizing the outcomes based on campaign duration. 
