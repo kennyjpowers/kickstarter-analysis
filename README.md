@@ -3,7 +3,7 @@
 ## Overview of Project
 
 ### Purpose
-My client Louise ran a kickstarter campaign for her play Fever and came close to her goal. She would like to understand the relationship between the launch dates and funding goals to the outcomes of other kickstarter campaigns. 
+My client Louise ran a kickstarter campaign for her play *Fever* and came close to her goal. She would like to understand the relationship between the launch dates and funding goals to the outcomes of other kickstarter campaigns. 
 
 ## Analysis and Challenges
 
