@@ -38,18 +38,18 @@ According to the chart, play campaigns with a goal less than 1000 had the highes
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
--- The months with the most successful campaigns were May through July. 
--- The total number of campaigns launched and the percentage successful declines towards the end of the year. 
+  - The months with the most successful campaigns were May through July. 
+  - The total number of campaigns launched and the percentage successful declines towards the end of the year. 
 
 - What can you conclude about the Outcomes based on Goals?
--- Play campaigns tend to have a higher percentage of success the lower the goal amount. 
--- Play campaigns with a goal over 45,000 had an over 80% failure rate. 
+  - Play campaigns tend to have a higher percentage of success the lower the goal amount. 
+  - Play campaigns with a goal over 45,000 had an over 80% failure rate. 
 
 - What are some limitations of this dataset?
--- The data does not include much of any information about how the campaign was marketed. 
--- The dataset only goes back to 2009.
--- The dataset does not include the currency exchange ratios when the campaigns were run, which could result in some inaccurate comparisons across different currency amounts. 
+  - The data does not include much of any information about how the campaign was marketed. 
+  - The dataset only goes back to 2009.
+  - The dataset does not include the currency exchange ratios when the campaigns were run, which could result in some inaccurate comparisons across different currency amounts. 
 
 - What are some other possible tables and/or graphs that we could create?
--- We could have converted all of the amounts into USD based on historical exchange ratios before creating our data based on goal amount to get a better comparison across different currencies. 
--- We could have created a graph vizualizing the outcomes based on campaign duration. 
+  - We could have converted all of the amounts into USD based on historical exchange ratios before creating our data based on goal amount to get a better comparison across different currencies. 
+  - We could have created a graph vizualizing the outcomes based on campaign duration. 
